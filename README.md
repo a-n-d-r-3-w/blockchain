@@ -1,7 +1,6 @@
 # blockchain
-Implemented while watching Savjee's YouTube video: https://youtu.be/zVqczFZr124
+Implemented while watching Xavier Decuyper's [excellent tutorial videos](https://www.savjee.be/videos/).
 
-This is a minimal blockchain implementation for learning purposes only, with the following limitations:
+This is a blockchain implementation for learning purposes only, with at least the following limitations:
 1. There is no mechanism to recover from a tampered block
-1. There is no proof of work
 1. There is no peer-to-peer network
